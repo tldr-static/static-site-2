@@ -5,7 +5,7 @@ export default {
   cleanUrls: true,
   themeConfig: {
     footer: {
-      message: '<a href="/clubhouse-privacy-policy/">Privacy Policy</a> | <a href="/clubhouse-term-conditions/">Term & Conditions</a>',
+      message: '<a href="/static-site/clubhouse-privacy-policy/">Privacy Policy</a> | <a href="/static-site/clubhouse-term-conditions/">Term & Conditions</a>',
       copyright: 'Copyright © 2023-present <a href="/index">TLDR</a>'
     }
   }
