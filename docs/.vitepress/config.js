@@ -1,7 +1,7 @@
 export default {
   title: 'TLDR',
   description: 'More Simply',
-  base: 'https://github.com/tldr-company/',
+  base: 'https://tldr-company.github.io/',
   themeConfig: {
     footer: {
       message: '<a href="/common/privacy-policy-clubhouse">Privacy Policy</a> | <a href="/common/term-conditions-clubhouse">Term & Conditions</a>',
