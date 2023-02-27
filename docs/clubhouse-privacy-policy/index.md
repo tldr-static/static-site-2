@@ -1,4 +1,3 @@
-# Privacy Policy
 **Privacy Policy**
 
 TLDR built the Clubhouse app as an Ad Supported app. This SERVICE is provided by TLDR at no cost and is intended for use as is.
