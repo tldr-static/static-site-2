@@ -1,4 +1,4 @@
-# Clobhouse
+# Clubhouse
 ## Features
 - Safe and simple golf matching app
 - An app to easily find someone to round with and enjoy golf
