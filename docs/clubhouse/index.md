@@ -10,3 +10,6 @@
 - Operate easily and conveniently with chat only for rounds.
 - Limited chat only for round members
 - Matching system optimized only for golf
+
+## CS
+jhj377@gmail.com
