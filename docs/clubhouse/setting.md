@@ -1,15 +1,9 @@
 # Clubhouse
-## Features
-- Safe and simple golf matching app
-- An app to easily find someone to round with and enjoy golf
-- Good look for saving people and saving games
+## 마이페이지
+- 내 프로필 설정
+- 지난 일정
 
-## Functions
-- Gather new people and have fun playing golf.
-- Round list exposure and matching system
-- Operate easily and conveniently with chat only for rounds.
-- Limited chat only for round members
-- Matching system optimized only for golf
 
-## CS
-jhj377@gmail.com
+<img src="https://user-images.githubusercontent.com/22079767/223757511-9d514133-8003-4999-ba58-c819b02dc683.png" width="300">
+
+<img src="https://user-images.githubusercontent.com/22079767/223757541-910f92cd-55a8-4485-8f8e-b93ae31cc41f.png" width="300">
