@@ -1,31 +1,30 @@
-# Inspire App
+# 감정 앱
 
-## Description
+# 지원 이메일
+hojin.jang.dev@gmail.com
 
-The **Inspire** app is designed to provide users with a source of inspiration tailored to their current emotions and state of being. Powered by cutting-edge language model AI, the app utilizes a Generative AI, codenamed "Gemini," to generate personalized messages, quotes, and passages designed to uplift and motivate users based on their present feelings.
+## 설명
 
-## Key Features
+신의 감정을 이해하고 그에 맞는 맞춤형 조언과 위로를 제공하는 AI 기반의 감정 지원 앱입니다. 최첨단 언어 모델 AI를 활용하여, 이 앱은 "제미니(Gemini)"라는 코드명의 생성 AI를 통해 사용자에게 맞춤형 메시지, 인용문, 문구를 생성하여 고양시키고 동기부여를 제공합니다.
 
-- **Personalized Inspiration**: The app analyzes the user's current emotions and state and generates custom messages to suit their needs.
+## 주요 기능
+
+- **개인화된 영감**: 앱은 사용자의 현재 감정과 상태를 분석하여 이에 맞는 맞춤형 메시지를 생성합니다.
+
+- **제미니 AI**: 앱의 핵심은 고급 생성 AI인 제미니에 있으며, 이는 지속적으로 학습하고 적응하여 점점 더 관련성 높고 효과적인 콘텐츠를 제공합니다.
   
-- **Gemini AI**: The heart of the app lies in its advanced Generative AI, Gemini, which continuously learns and adapts to provide increasingly relevant and impactful content.
+- **맞춤 설정 옵션**: 사용자는 자신이 받는 영감 메시지의 주제, 토픽 또는 톤을 선택하여 경험을 맞춤 설정할 수 있습니다.
 
-- **Real-time Updates**: Users receive real-time notifications with freshly generated inspirational content to keep them motivated throughout the day.
+- **자동 푸시 알림** : 자동으로 맞춤형 메시지를 푸시 알림으로 전송하여 지속적인 지원을 제공합니다.
 
-- **Customization Options**: Users can customize their experience by selecting specific themes, topics, or tones for the inspirational messages they receive.
+## 작동 방식
 
-- **Save and Share**: Users can save their favorite quotes or share them with friends and family via social media platforms directly from the app.
+1. **감정 분석**: 앱은 정교한 알고리즘을 사용하여 사용자의 현재 감정 상태를 분석합니다. 이 분석은 기분, 톤, 문맥 등의 요소를 고려합니다.
 
-## How It Works
+2. **제미니 AI 생성**: 감정 분석을 기반으로, 제미니는 자연어 생성 기술을 사용하여 맞춤형 메시지를 생성합니다. 이 메시지들은 사용자의 감정에 공감하며 관련된 영감을 제공합니다.
 
-1. **Emotion Analysis**: The app utilizes sophisticated algorithms to analyze the user's current emotional state. This analysis takes into account factors such as mood, tone, and context.
+3. **전달**: 생성된 메시지는 앱 인터페이스나 푸시 알림을 통해 사용자에게 전달되어, 언제든지 영감을 얻을 수 있도록 합니다.
 
-2. **Gemini AI Generation**: Based on the emotional analysis, Gemini generates personalized messages using natural language generation techniques. These messages are crafted to resonate with the user's feelings and provide them with relevant inspiration.
+## 언제 어디서나 영감을 얻으세요
 
-3. **Delivery**: The generated messages are delivered to the user via the app interface or through push notifications, ensuring that users have access to inspiration whenever they need it.
-
-## Get Inspired Anytime, Anywhere
-
-With the **Inspire** app, users can access a constant source of motivation and encouragement tailored specifically to their current emotional state. Whether they're feeling down and in need of a pick-me-up or simply seeking inspiration to tackle a new challenge, Inspire is there to provide the perfect words at the right time.
-
-[Download now](#) and let Inspire elevate your mood and mindset today!
+**감정** 앱을 통해 사용자는 현재 감정 상태에 맞춘 지속적인 동기부여와 격려를 받을 수 있습니다. 기분이 저조하여 활력이 필요할 때나 새로운 도전에 영감을 얻고자 할 때, 감정는 적시에 완벽한 말을 제공하여 항상 함께합니다.
