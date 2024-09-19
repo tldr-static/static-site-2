@@ -1,7 +1,7 @@
 # 감정 앱
 
 # 지원 이메일
-hojin.jang.dev@gmail.com
+main@tl-dr.in
 
 ## 설명
 

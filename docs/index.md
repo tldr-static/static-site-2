@@ -1,21 +1,17 @@
 # TLDR
 We pursue a simple and simple app
 
-## Inspire
-Inspire App
+## EmotionCare
+Guiding youre emotions
+This is an emotion support app based on Al that understands your emotions and provides personalized advice and comfort tailored to them. Using an advanced language model Al named "Gemini," this app uplifts and motivates users by generating personalized messages based on their current emotions.
+Real-time emotion recognition: Input your current emotion and receive immediate advice and comforting messages tailored to it.
+Automatic push notifications: Automatically sends personalized messages as push notifications to provide continuous support.
+Personalized experience: Offers more customized advice based on the user's personal emotional records.
+Free tickets: Provides 10 free tickets for initial users to access the service.
+If you have any more text you need translated or any other questions, feel free to ask!
 
-The Inspire app is designed to provide users with a source of inspiration tailored to their current emotions and state of being. Powered by cutting-edge language model AI, the app utilizes a Generative AI, codenamed "Gemini," to generate personalized messages, quotes, and passages designed to uplift and motivate users based on their present feelings.
+https://apps.apple.com/kr/app/emotioncare/id6483000351
 
 
-## Clobhouse
-### Features
-- Safe and simple golf matching app
-- An app to easily find someone to round with and enjoy golf
-- Good look for saving people and saving games
-
-### Functions
-- Gather new people and have fun playing golf.
-- Round list exposure and matching system
-- Operate easily and conveniently with chat only for rounds.
-- Limited chat only for round members
-- Matching system optimized only for golf
+# CS
+main@tl-dr.in
