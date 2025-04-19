@@ -1,35 +1,79 @@
 **Terms & Conditions**
 
-By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to TLDR.
+Effective Date: 2023-02-27  
+Last Updated: 2025-04-19
 
-TLDR is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+By downloading or using the app, you agree to these Terms and Conditions.
 
-The tl-dr app stores and processes personal data that you have provided to us, to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the tl-dr app won’t work properly or at all.
+---
 
-The app does use third-party services that declare their Terms and Conditions.
+**1. Use of the App**
 
-Link to Terms and Conditions of third-party service providers used by the app
+You may not:
+- Copy or modify the app or its content
+- Reverse engineer, extract source code, or create derivative works
+- Use the app in any unlawful or unauthorized manner
 
-*   [AdMob](https://developers.google.com/admob/terms)
+All rights, title, and interest in the app, including intellectual property, remain with TLDR.
 
-You should be aware that there are certain things that TLDR will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but TLDR cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
+---
 
-If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
+**2. Modifications and Updates**
 
-Along the same lines, TLDR cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, TLDR cannot accept responsibility.
+We reserve the right to:
+- Modify or discontinue the app or its features at any time
+- Charge for features (with clear notice)
 
-With respect to TLDR’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. TLDR accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+You agree to install any updates provided to maintain use of the app.
 
-At some point, we may wish to update the app. The app is currently available on iOS – the requirements for the system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. TLDR does not promise that it will always update the app so that it is relevant to you and/or works with the iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+---
 
-**Changes to This Terms and Conditions**
+**3. Data and Security**
 
-We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
+We process personal information in accordance with our [Privacy Policy]. You are responsible for the security of your device. Do not jailbreak or root your device, which may compromise security or app functionality.
 
-These terms and conditions are effective as of 2023-02-27
+---
+
+**4. Third-Party Services**
+
+Our app uses services such as:
+- [AdMob (Google)](https://developers.google.com/admob/terms)
+
+These services are subject to their own Terms & Conditions.
+
+---
+
+**5. Connectivity and Charges**
+
+You are responsible for any data usage fees incurred while using the app. We are not responsible if the app does not function due to lack of network connection or device limitations.
+
+---
+
+**6. Limitation of Liability**
+
+We do our best to provide accurate and timely service but do not guarantee availability, reliability, or accuracy. You use the app at your own risk. TLDR is not liable for any direct, indirect, incidental, or consequential damages.
+
+---
+
+**7. Termination**
+
+We may terminate or suspend access to the app at any time without notice. Upon termination, you must cease using and uninstall the app.
+
+---
+
+**8. Governing Law and Jurisdiction**
+
+These Terms are governed by the laws of the Republic of Korea. Any disputes shall be resolved exclusively in the courts located in Seoul, Korea.
+
+---
+
+**9. Changes to These Terms**
+
+We may update these Terms & Conditions. Continued use of the app after changes constitutes acceptance of the new terms.
+
+---
 
 **Contact Us**
 
-If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at main@tl-dr.in.
-
-This Terms and Conditions page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+If you have any questions or concerns about these Terms, please contact us:  
+📧 main@tl-dr.in
