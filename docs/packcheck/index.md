@@ -1,13 +1,15 @@
 # 📦 PackCheck  
-### "Worried about luggage weight? Snap a photo and relax."
 
+### "Worried about luggage weight? Snap a photo and relax."
 ---
 
 ## ✨ What is PackCheck?
-
+  
 **PackCheck** is a smart travel assistant app that helps you **estimate the weight of your luggage** — just by taking a photo of your packed suitcase.
 
 Using powerful AI, PackCheck analyzes the items inside your bag and calculates the total weight, so you can pack smarter and avoid baggage fees or last-minute surprises at the airport.
+
+<img width="1344" alt="Screenshot 2025-04-22 at 9 43 43 PM" src="https://github.com/user-attachments/assets/a5082d2e-6c13-418f-ae38-a76e39719d49" />   
 
 ---
 
@@ -48,9 +50,9 @@ We support development through **Google AdMob (interstitial ads)**
 
 ## 📲 Download
 
-| Platform | Link |
-|----------|------|
-| **iOS (App Store)** | [Download](https://apps.apple.com/app/packcheck/id6744557596) |
+|| Platform | Link |
+|-----|----------|------|
+|<img width="50" alt="logo" src="https://github.com/user-attachments/assets/5f5e1b9c-1898-4c03-a343-4f167c821390"/>    | **iOS (App Store)** | [Download](https://apps.apple.com/app/packcheck/id6744557596) |
 
 ---
 
